@@ -14,7 +14,7 @@ mihone 的个人博客
 * [在Maven中央仓库发布自己的Jar](https://blog.mihone.site/articles/2019/10/10/1570709926517.html)
 * [FTP连接池](https://blog.mihone.site/articles/2019/10/10/1570709826701.html)
 * [Linux Centos7下安装Mysql5.6及相关设置](https://blog.mihone.site/articles/2019/10/10/1570709587797.html)
-* [集合学习笔记(三)—ArrayList、LinkedList、LinkedHashMap（日后整理补充）](https://blog.mihone.site/articles/2019/10/10/1570709218946.html)
+* [集合学习笔记(三)—ArrayList、LinkedList、LinkedHashMap](https://blog.mihone.site/articles/2019/10/10/1570709218946.html)
 * [Redis配置文件](https://blog.mihone.site/articles/2019/10/10/1570708779463.html)
 * [集合学习笔记(二)—LinkedBlockingQueue](https://blog.mihone.site/articles/2019/10/10/1570708543427.html)
 * [集合学习笔记(一)—HashMap](https://blog.mihone.site/articles/2019/10/10/1570664051457.html)
