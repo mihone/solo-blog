@@ -10,6 +10,7 @@ mihone 的个人博客
 
 ### 最新
 
+* [LogBack学习](https://blog.mihone.site/articles/2019/10/23/1571821095257.html)
 * [基于Redis的消息队列实现](https://blog.mihone.site/articles/2019/10/10/1570709998541.html)
 * [在Maven中央仓库发布自己的Jar](https://blog.mihone.site/articles/2019/10/10/1570709926517.html)
 * [FTP连接池](https://blog.mihone.site/articles/2019/10/10/1570709826701.html)
