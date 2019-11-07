@@ -10,6 +10,7 @@ mihone 的个人博客
 
 ### 最新
 
+* [多线程学习笔记(一)——基本知识](https://blog.mihone.site/articles/2019/11/07/1573135661855.html)
 * [LogBack学习](https://blog.mihone.site/articles/2019/10/23/1571821095257.html)
 * [基于Redis的消息队列实现](https://blog.mihone.site/articles/2019/10/10/1570709998541.html)
 * [在Maven中央仓库发布自己的Jar](https://blog.mihone.site/articles/2019/10/10/1570709926517.html)
